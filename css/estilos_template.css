@@ -131,17 +131,47 @@ footer{
 	background-image: url(../img/instor.png);
 }
 
-#txtpromo {
-    font-size: 40px;
-    color: #050505;
-    font-weight: 477;
+#txtPromo {
+   width: 477px;
+   height: 158px;
+	position: absolute;
+	top: 800px;
+	left: 700px;
+	text-align: right;
+	
 }
 
+#txtPromo h2{
+	font-family: "Helvetica Neue";
+	margin-top: 25px;
+	margin-right: 20px;
+	color: #A1C133;
+}
 
+#txtPromo h3{
+	font-family: "Helvetica Neue Light";
+	margin-top: 25px;
+	margin-right: 20px;
+	color: #010101;
+}
 
+#boxmapa{
+	width: 720px;
+	height: 285px;
+	background-color: #A1C133;
+	position: absolute;
+	top: 120px;
+	left: 230px;
+	
+}
 
-
-
+#ubicacion{
+	width: 676px;
+	height: 322px;
+	margin-left: 22px;
+	margin-top: -80px;
+	box-shadow: 0 5px 7px rgba(0,0,0,0.5);
+}
 
 
 
